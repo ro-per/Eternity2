@@ -21,9 +21,9 @@
 %%%mzn-stat: nogoods=12
 %%%mzn-stat: backjumps=7
 %%%mzn-stat: peakMem=0.00
-%%%mzn-stat: time=0.009
-%%%mzn-stat: initTime=0.009
-%%%mzn-stat: solveTime=0.000
+%%%mzn-stat: time=0.007
+%%%mzn-stat: initTime=0.006
+%%%mzn-stat: solveTime=0.001
 %%%mzn-stat: baseMem=0.00
 %%%mzn-stat: trailMem=0.02
-%%%mzn-stat: randomSeed=1621093504
+%%%mzn-stat: randomSeed=1621094151
