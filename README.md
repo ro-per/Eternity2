@@ -6,7 +6,7 @@
 - [Course: Artificiële Intelligentie](https://onderwijsaanbod.kuleuven.be//2020/syllabi/n/JPI0QEN.htm#activetab=doelstellingen_idm2963040)
 - [Subject: Minizinc](https://dtai.cs.kuleuven.be/drupal/software/idp/try)
 
-See [assignement](assignement.md) for more info.
+See [assignement](assignement/assignement.md) for more info.
 
 # Eternity2
 ## How to run ?
