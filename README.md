@@ -1,7 +1,9 @@
-# About this project
-- [IIW KU LEUVEN](https://iiw.kuleuven.be/)
-- [Author: Romeo Permentier](https://github.com/ro-per)
+# Eternity 2 (Puzzle) solver
+## Authors
+- [Romeo Permentier](https://github.com/ro-per)
 
+## About this project
+- [IIW KU LEUVEN](https://iiw.kuleuven.be/)
 - [Teacher: Greet Vanden Berghe](https://www.kuleuven.be/wieiswie/nl/person/00053376)
 - [Course: Artificiële Intelligentie](https://onderwijsaanbod.kuleuven.be//2020/syllabi/n/JPI0QEN.htm#activetab=doelstellingen_idm2963040)
 - [Subject: Minizinc](https://dtai.cs.kuleuven.be/drupal/software/idp/try)
