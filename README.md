@@ -9,8 +9,6 @@
 - [Subject: Minizinc](https://dtai.cs.kuleuven.be/drupal/software/idp/try)
 
 See [assignement](assignement/assignement.md) for more info.
-
-# Eternity2
 ## How to run ?
 - Minizinc needs to be installed !
 - ```$ cd bash ```
