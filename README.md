@@ -1,5 +1,5 @@
 # Eternity 2 (Puzzle) solver
-## Authors
+## Author
 - [Romeo Permentier](https://github.com/ro-per)
 
 ## About this project
